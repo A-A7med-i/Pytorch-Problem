@@ -1,8 +1,5 @@
-<p align="center">
-    <img src="https://us1.discourse-cdn.com/flex001/uploads/modular/original/1X/852487ed498bcd1091474d5b3cacb05ed5d493b7.png" width="120" height="120" alt="LeetGPU Logo"/>
-</p>
+<h1 align="center">LeetGPU PyTorch</h1>
 
----
 
 Welcome to the **LeetGPU PyTorch Problem Solutions** repository!
 This project provides **high-quality solutions** to GPU programming problems from [LeetGPU](https://leetgpu.com/), with a focus on **PyTorch-style computational tasks**.

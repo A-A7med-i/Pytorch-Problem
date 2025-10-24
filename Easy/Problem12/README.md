@@ -34,7 +34,7 @@ Count how many times the value `k` appears in the array. The result must be stor
 
 ## Solution
 
-See [count_element.py](./count_array_element.py) for a Python implementation.
+See [count_element.py](./count_element.py) for a Python implementation.
 
 ## Additional Information
 
